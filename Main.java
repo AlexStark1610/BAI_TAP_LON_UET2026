@@ -38,9 +38,7 @@ public class Main {
 
         for (Animal animal : zoo) {
             animal.makeSound();
-            System.out.println("Bruh Bruh lmao");
+            System.out.println("haha Bruh lmao");
         }
     }
 }
-
-// dit con me bo deo dau !!!!
